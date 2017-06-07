@@ -38,7 +38,7 @@ public class Display {
 	}
 
 	public void drawGrid(int[][] f) {
-		int piece;
+		Object piece;
 		int numcols = f[0].length;
 		int numrows = f.length;
 

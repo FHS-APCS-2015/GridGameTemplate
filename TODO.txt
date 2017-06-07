@@ -1,0 +1,5 @@
+TODO:
+
+* Add comments to AnimatedImage
+* Modify Display class so you can add either PImages or AnimatedImages
+* Create small illustrative example

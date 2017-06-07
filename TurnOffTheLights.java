@@ -55,7 +55,8 @@ public class TurnOffTheLights {
 			return false; // if game is over, exit
 
 		/* Make the move by changing what you need to change in grid */
-
+		grid[r][c] = 1;
+		
 		// check for the winner
 		gameOver = checkForWinner();
 
